@@ -1,6 +1,8 @@
 # pge-install
 这是一个一键安装Prometheus、Grafana和Node Exporter脚本
+
 Prometheus、Grafana为基于Docker进行部署
+
 Node Exporter为二进制部署
 
 # 使用方法
