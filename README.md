@@ -22,4 +22,12 @@ c) 检测依赖命令
 q) 退出
 ```
 
+<a href="https://star-history.com/#Xnidada/pge-install&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Xnidada/pge-install&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Xnidada/pge-install&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Xnidada/pge-install&type=Date" />
+ </picture>
+</a>
+
 **如果觉得这个项目不错对您有所帮助的话，请点击仓库右上角的 ⭐ 并分享给更多的朋友。**
